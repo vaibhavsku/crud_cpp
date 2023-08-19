@@ -1,0 +1,5 @@
+WRITE,5,Apoorv Tripathi,Kanpur
+UPDATE,3,Naman Agrawal,H-1606
+READ,ALL
+READ,1
+DELETE,2
